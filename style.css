@@ -8,7 +8,7 @@
     margin-right: auto;
     width: 50%;
   }
-  /* background images start */
+  /* background images end */
 
   /* navbar start */
   .navbutton {
@@ -36,6 +36,61 @@
     background-color: #963821;
   }
   /* navbar end */
+
+  /* index start */
+  .indextext1 {
+    color: #007A33;
+    font-size: 200%;
+    background-color: white;
+    border-color: #BA9653;
+    border-radius: 10px;
+    padding: 2%;
+    margin: 5%;
+    text-align: left;
+    font-family: 'Moulpali'; 
+  }
+
+  .indextext2 {
+    color: #007A33;
+    font-size: 220%;
+    background-color: white;
+    border-color: #BA9653;
+    border-radius: 10px;
+    padding: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    text-align: center;
+    font-family: 'Moulpali'; 
+  }
+
+  .biglogo {
+    margin: 5%;
+  }
+
+  .roster {
+    word-break: break-all;
+    color: #007A33;
+    font-size: 150%;
+    background-color: white;
+    border-color: #BA9653;
+    border-radius: 10px;
+    padding: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    text-align: center;
+    font-family: 'Moulpali'; 
+  }
+
+  .innerlist {
+    list-style-position: inside;
+        padding: 0;
+
+  }
+  /* index end */
+
+
 
   /* celtics 8 ball code start */
   body {
