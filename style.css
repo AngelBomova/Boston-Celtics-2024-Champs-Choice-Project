@@ -92,6 +92,58 @@
 
 
 
+ /* playoffs start */
+ .standings {
+  word-break: break-all;
+  color: black;
+  font-size: 150%;
+  background-color: white;
+  border-color: #BA9653;
+  border-radius: 10px;
+  padding: 2%;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 5%;
+  text-align: center;
+  font-family: 'Moulpali'; 
+ }
+
+ .indextext3 {
+  color: black;
+  font-size: 220%;
+  background-color: white;
+  border-color: #BA9653;
+  border-radius: 10px;
+  padding: 2%;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 5%;
+  text-align: center;
+  font-family: 'Moulpali'; 
+
+  
+}
+
+.biglogo2 {
+  margin: 5%;
+  padding-top: 5% ;
+}
+
+.indextext4 {
+  color: #007A33;
+  font-size: 150%;
+  background-color: white;
+  border-color: #BA9653;
+  border-radius: 10px;
+  padding: 2%;
+  margin: 5%;
+  text-align: left;
+  font-family: 'Moulpali'; 
+}
+ /* playoffs end */
+
+
+
   /* celtics 8 ball code start */
   body {
     margin: 0;
