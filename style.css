@@ -144,6 +144,17 @@
 
 
 
+ /* gallery start */
+ .galleryimg {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 100%;
+ } 
+ /* gallery end */
+
+
+
   /* celtics 8 ball code start */
   body {
     margin: 0;
